@@ -1,0 +1,9 @@
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\obj\x86\Debug\GIS_program_1.csprojResolveAssemblyReference.cache
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkName.resources
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+C:\Users\13924\Desktop\GIS_program_1\MapControlApplication1\obj\x86\Debug\GIS_program_1.csproj.GenerateResource.Cache
