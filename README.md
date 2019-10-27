@@ -1,2 +1,2 @@
 # GIS-Programming
-The code for GIS-Programming in ZJU in 2019
+The code for GIS-Programming course in ZJU in 2019
